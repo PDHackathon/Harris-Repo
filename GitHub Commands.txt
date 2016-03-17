@@ -1,5 +1,4 @@
 ## GitHub Commands
-
 # List commands for GitHub; essentially acts like Help
 git
 
@@ -12,19 +11,20 @@ git status
 # Add file for transfer from Local to GitHub, not committed
 git add [file name]
 # Add all files for transfer from Local repo
-get add -A
+git add -A
 # Or another way
-get add .
+git add .
 
 # Commit file for transfer to GitHub with a message
 git commit -m "[message]"
 
 # Publish any files in transfer to online repo
-get push
+git push
 
 # Download all new files from online repo (must be in repository directory in cmd)
-get pull
+git pull
 
 # Stuck in a merge? Try this:
 	# Hit Esc
 	:wq
+	# Hit Enter, obviously
