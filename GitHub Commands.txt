@@ -1,6 +1,6 @@
 ## GitHub Commands
 
-# List commands for GitHub; essential Help
+# List commands for GitHub; essentially acts like Help
 git
 
 # Copy from URL
